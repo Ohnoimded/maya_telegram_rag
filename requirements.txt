@@ -1,0 +1,10 @@
+langchain==0.2.5
+langchain-community==0.2.5
+langchain-core==0.2.9
+langchain-text-splitters==0.2.1
+neo4j==5.21.0
+pyTelegramBotAPI==4.19.2
+pytest==7.1.2
+telebot==0.0.5
+tokenizers==0.19.1
+transformers==4.41.2

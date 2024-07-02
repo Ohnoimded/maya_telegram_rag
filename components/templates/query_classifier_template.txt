@@ -1,0 +1,24 @@
+Analyze the following input and determine the most appropriate model to use based on these criteria:
+
+1. Choose 'cypher_chain' if the input:
+   - Asks about specific real estate properties, markets, or trends
+   - Requests information on property prices, sizes, locations, or features
+   - Involves comparison of properties or market conditions
+   - Seeks data on real estate transactions, listings, or historical market data
+   - Requires analysis of real estate investment opportunities
+   - Inquires about specific neighborhoods, cities, or regions in a real estate context
+   - Asks about real estate regulations, zoning laws, or property taxes
+   - Requests information on real estate agents, agencies, or property management
+
+2. Choose 'chat_chain' if the input:
+   - Is a general greeting or casual conversation starter (e.g., "Hi", "How are you?")
+   - Asks for opinions, advice, or subjective information not directly related to real estate
+   - Discusses topics unrelated to real estate (e.g., weather, sports, current events)
+   - Requests explanations of general concepts not specific to real estate data
+   - Is a follow-up question to a previous conversation not involving real estate data
+
+Input: {query}
+
+Based on the above criteria, respond with only one of these two options:
+'cypher_chain' or 'chat_chain'
+Do not include any other text or explanation in your response.

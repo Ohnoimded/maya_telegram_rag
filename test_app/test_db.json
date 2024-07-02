@@ -1,0 +1,1234 @@
+[
+    {
+        "location": "Worli",
+        "amenities": [
+            "Swimming pool",
+            "Gym",
+            "Parking",
+            "Garden"
+        ],
+        "property_name": "Enchanted Oasis",
+        "price_mil": 15000000,
+        "area_sqft": 1200,
+        "rooms_bhk": 3,
+        "property_type": "Condominium (Condo)"
+    },
+    {
+        "location": "Dadar West",
+        "amenities": [
+            "Clubhouse",
+            "Tennis court",
+            "Parking"
+        ],
+        "property_name": "Serene Haven",
+        "price_mil": 17500000,
+        "area_sqft": 1300,
+        "rooms_bhk": 2,
+        "property_type": "Villa"
+    },
+    {
+        "location": "Worli",
+        "amenities": [
+            "Beachfront access",
+            "Swimming pool",
+            "Parking"
+        ],
+        "property_name": "Ocean View Retreat",
+        "price_mil": 20000000,
+        "area_sqft": 1500,
+        "rooms_bhk": 3,
+        "property_type": "Penthouse"
+    },
+    {
+        "location": "Lower Parel",
+        "amenities": [
+            "Sky lounge",
+            "Spa",
+            "Parking"
+        ],
+        "property_name": "Skyline Heights",
+        "price_mil": 22500000,
+        "area_sqft": 1600,
+        "rooms_bhk": 3,
+        "property_type": "Condominium (Condo)"
+    },
+    {
+        "location": "Juhu",
+        "amenities": [
+            "Gym",
+            "Children's play area",
+            "Parking"
+        ],
+        "property_name": "Family Delight",
+        "price_mil": 13000000,
+        "area_sqft": 1100,
+        "rooms_bhk": 2,
+        "property_type": "Villa"
+    },
+    {
+        "location": "Borivali West",
+        "amenities": [
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Urban Oasis",
+        "price_mil": 18000000,
+        "area_sqft": 1400,
+        "rooms_bhk": 2,
+        "property_type": "Townhouse"
+    },
+    {
+        "location": "Thane West",
+        "amenities": [
+            "Sea view",
+            "Pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Sea Breeze Haven",
+        "price_mil": 25000000,
+        "area_sqft": 1800,
+        "rooms_bhk": 3,
+        "property_type": "Townhouse"
+    },
+    {
+        "location": "Santacruz East",
+        "amenities": [
+            "Waterfront view",
+            "Clubhouse",
+            "Parking"
+        ],
+        "property_name": "Riverside Bliss",
+        "price_mil": 30000000,
+        "area_sqft": 2000,
+        "rooms_bhk": 4,
+        "property_type": "Villa"
+    },
+    {
+        "location": "Worli Sea Face",
+        "amenities": [
+            "Park",
+            "Gym",
+            "Security"
+        ],
+        "property_name": "Sunset Retreat",
+        "price_mil": 14000000,
+        "area_sqft": 1000,
+        "rooms_bhk": 2,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Dadar West",
+        "amenities": [
+            "Pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Cityscape Tower",
+        "price_mil": 22000000,
+        "area_sqft": 1600,
+        "rooms_bhk": 3,
+        "property_type": "Condominium (Condo)"
+    },
+    {
+        "location": "Malad West",
+        "amenities": [
+            "Swimming pool",
+            "Clubhouse",
+            "Parking"
+        ],
+        "property_name": "Luxury Cove",
+        "price_mil": 19000000,
+        "area_sqft": 1500,
+        "rooms_bhk": 3,
+        "property_type": "Condominium (Condo)"
+    },
+    {
+        "location": "Andheri West",
+        "amenities": [
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Tranquil Heights",
+        "price_mil": 17000000,
+        "area_sqft": 1400,
+        "rooms_bhk": 2,
+        "property_type": "Condominium (Condo)"
+    },
+    {
+        "location": "Versova",
+        "amenities": [
+            "Park",
+            "Security",
+            "Parking"
+        ],
+        "property_name": "Green Paradise",
+        "price_mil": 12000000,
+        "area_sqft": 1100,
+        "rooms_bhk": 2,
+        "property_type": "Condominium (Condo)"
+    },
+    {
+        "location": "Colaba",
+        "amenities": [
+            "Garden",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Floral Meadow",
+        "price_mil": 16000000,
+        "area_sqft": 1300,
+        "rooms_bhk": 2,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Santa Cruz",
+        "amenities": [
+            "Clubhouse",
+            "Swimming pool",
+            "Parking"
+        ],
+        "property_name": "Elegant Villa",
+        "price_mil": 15000000,
+        "area_sqft": 1200,
+        "rooms_bhk": 2,
+        "property_type": "Condominium (Condo)"
+    },
+    {
+        "location": "Santacruz East",
+        "amenities": [
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Breezy Retreat",
+        "price_mil": 13000000,
+        "area_sqft": 1100,
+        "rooms_bhk": 2,
+        "property_type": "Condominium (Condo)"
+    },
+    {
+        "location": "Marine Drive",
+        "amenities": [
+            "Clubhouse",
+            "Swimming pool",
+            "Parking"
+        ],
+        "property_name": "Nature's View",
+        "price_mil": 14000000,
+        "area_sqft": 1200,
+        "rooms_bhk": 2,
+        "property_type": "Penthouse"
+    },
+    {
+        "location": "Santa Cruz",
+        "amenities": [
+            "Park",
+            "Gym",
+            "Security",
+            "Parking"
+        ],
+        "property_name": "Urban Villa",
+        "price_mil": 11000000,
+        "area_sqft": 1000,
+        "rooms_bhk": 2,
+        "property_type": "Villa"
+    },
+    {
+        "location": "Powai",
+        "amenities": [
+            "Sea view",
+            "Pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Seaside Bliss",
+        "price_mil": 30000000,
+        "area_sqft": 2000,
+        "rooms_bhk": 3,
+        "property_type": "Condominium (Condo)"
+    },
+    {
+        "location": "Worli",
+        "amenities": [
+            "Sea view",
+            "Pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Mountain View",
+        "price_mil": 25000000,
+        "area_sqft": 1800,
+        "rooms_bhk": 3,
+        "property_type": "Condominium (Condo)"
+    },
+    {
+        "location": "Malad West",
+        "amenities": [
+            "Garden",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Green Valley",
+        "price_mil": 16000000,
+        "area_sqft": 1300,
+        "rooms_bhk": 2,
+        "property_type": "Townhouse"
+    },
+    {
+        "location": "Worli Sea Face",
+        "amenities": [
+            "Clubhouse",
+            "Swimming pool",
+            "Parking"
+        ],
+        "property_name": "Cityscape Residency",
+        "price_mil": 18000000,
+        "area_sqft": 1500,
+        "rooms_bhk": 3,
+        "property_type": "Condominium (Condo)"
+    },
+    {
+        "location": "Dadar West",
+        "amenities": [
+            "Sea view",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Seaside Luxury Villa",
+        "price_mil": 28000000,
+        "area_sqft": 2200,
+        "rooms_bhk": 4,
+        "property_type": "Villa"
+    },
+    {
+        "location": "Andheri West",
+        "amenities": [
+            "Clubhouse",
+            "Swimming pool",
+            "Parking"
+        ],
+        "property_name": "Andheri Oasis",
+        "price_mil": 19000000,
+        "area_sqft": 1500,
+        "rooms_bhk": 3,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Kandivali East",
+        "amenities": [
+            "Garden",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Lake View Retreat",
+        "price_mil": 20000000,
+        "area_sqft": 1600,
+        "rooms_bhk": 3,
+        "property_type": "Condominium (Condo)"
+    },
+    {
+        "location": "Andheri West",
+        "amenities": [
+            "Sea view",
+            "Parking"
+        ],
+        "property_name": "Malabar Serenity",
+        "price_mil": 35000000,
+        "area_sqft": 2500,
+        "rooms_bhk": 4,
+        "property_type": "Penthouse"
+    },
+    {
+        "location": "Thane West",
+        "amenities": [
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Bandra Heights",
+        "price_mil": 15000000,
+        "area_sqft": 1200,
+        "rooms_bhk": 2,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Worli",
+        "amenities": [
+            "Beachfront",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Juhu Beach Haven",
+        "price_mil": 30000000,
+        "area_sqft": 2800,
+        "rooms_bhk": 4,
+        "property_type": "Luxury Apartment"
+    },
+    {
+        "location": "Dadar West",
+        "amenities": [
+            "Clubhouse",
+            "Swimming pool",
+            "Garden",
+            "Parking"
+        ],
+        "property_name": "Park Avenue Residency",
+        "price_mil": 25000000,
+        "area_sqft": 2000,
+        "rooms_bhk": 3,
+        "property_type": "Duplex"
+    },
+    {
+        "location": "Thane West",
+        "amenities": [
+            "Sea view",
+            "Security",
+            "Parking"
+        ],
+        "property_name": "Colaba Seaside Retreat",
+        "price_mil": 40000000,
+        "area_sqft": 3000,
+        "rooms_bhk": 4,
+        "property_type": "Luxury Villa"
+    },
+    {
+        "location": "Thane West",
+        "amenities": [
+            "Private terrace",
+            "Swimming pool",
+            "Parking"
+        ],
+        "property_name": "Worli Skyline View",
+        "price_mil": 28000000,
+        "area_sqft": 2200,
+        "rooms_bhk": 3,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Andheri West",
+        "amenities": [
+            "Sea view",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Seaside Luxury Villa",
+        "price_mil": 28000000,
+        "area_sqft": 2200,
+        "rooms_bhk": 4,
+        "property_type": "Villa"
+    },
+    {
+        "location": "Powai",
+        "amenities": [
+            "Clubhouse",
+            "Swimming pool",
+            "Parking"
+        ],
+        "property_name": "Andheri Oasis",
+        "price_mil": 19000000,
+        "area_sqft": 1500,
+        "rooms_bhk": 3,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Powai",
+        "amenities": [
+            "Garden",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Lake View Retreat",
+        "price_mil": 20000000,
+        "area_sqft": 1600,
+        "rooms_bhk": 3,
+        "property_type": "Condominium (Condo)"
+    },
+    {
+        "location": "Versova",
+        "amenities": [
+            "Sea view",
+            "Parking"
+        ],
+        "property_name": "Malabar Serenity",
+        "price_mil": 35000000,
+        "area_sqft": 2500,
+        "rooms_bhk": 4,
+        "property_type": "Penthouse"
+    },
+    {
+        "location": "Lower Parel",
+        "amenities": [
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Bandra Heights",
+        "price_mil": 15000000,
+        "area_sqft": 1200,
+        "rooms_bhk": 2,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Santacruz East",
+        "amenities": [
+            "Swimming pool",
+            "Garden",
+            "Parking"
+        ],
+        "property_name": "Green Acres",
+        "price_mil": 22000000,
+        "area_sqft": 1800,
+        "rooms_bhk": 3,
+        "property_type": "Villa"
+    },
+    {
+        "location": "Vile Parle East",
+        "amenities": [
+            "Security",
+            "Parking"
+        ],
+        "property_name": "Chembur Heights",
+        "price_mil": 13000000,
+        "area_sqft": 1000,
+        "rooms_bhk": 2,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Lower Parel",
+        "amenities": [
+            "Sea view",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Versova Seaside Villa",
+        "price_mil": 35000000,
+        "area_sqft": 2800,
+        "rooms_bhk": 4,
+        "property_type": "Luxury Villa"
+    },
+    {
+        "location": "Bandra West",
+        "amenities": [
+            "Clubhouse",
+            "Swimming pool",
+            "Garden",
+            "Parking"
+        ],
+        "property_name": "Goregaon Greens",
+        "price_mil": 28000000,
+        "area_sqft": 2200,
+        "rooms_bhk": 3,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Chembur",
+        "amenities": [
+            "Security",
+            "Parking"
+        ],
+        "property_name": "Dadar Heights",
+        "price_mil": 15000000,
+        "area_sqft": 1200,
+        "rooms_bhk": 2,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Chembur",
+        "amenities": [
+            "Sea view",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Bandra Oceanic Villa",
+        "price_mil": 40000000,
+        "area_sqft": 3000,
+        "rooms_bhk": 4,
+        "property_type": "Luxury Villa"
+    },
+    {
+        "location": "Goregaon East",
+        "amenities": [
+            "Private terrace",
+            "Swimming pool",
+            "Parking"
+        ],
+        "property_name": "Worli Heights",
+        "price_mil": 25000000,
+        "area_sqft": 2000,
+        "rooms_bhk": 3,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Kandivali East",
+        "amenities": [
+            "Clubhouse",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Andheri Grandeur",
+        "price_mil": 28000000,
+        "area_sqft": 2200,
+        "rooms_bhk": 3,
+        "property_type": "Luxury Apartment"
+    },
+    {
+        "location": "Borivali West",
+        "amenities": [
+            "Garden",
+            "Parking"
+        ],
+        "property_name": "Khar Tranquil",
+        "price_mil": 17000000,
+        "area_sqft": 1400,
+        "rooms_bhk": 2,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Khar West",
+        "amenities": [
+            "Sea view",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Santa Cruz Paradise",
+        "price_mil": 30000000,
+        "area_sqft": 2400,
+        "rooms_bhk": 4,
+        "property_type": "Luxury Villa"
+    },
+    {
+        "location": "Juhu",
+        "amenities": [
+            "Security",
+            "Parking"
+        ],
+        "property_name": "Bandra Serenity",
+        "price_mil": 20000000,
+        "area_sqft": 1600,
+        "rooms_bhk": 3,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Powai",
+        "amenities": [
+            "Clubhouse",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Chembur Vista",
+        "price_mil": 21000000,
+        "area_sqft": 1700,
+        "rooms_bhk": 3,
+        "property_type": "Luxury Apartment"
+    },
+    {
+        "location": "Versova",
+        "amenities": [
+            "Sea view",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Juhu Waves",
+        "price_mil": 38000000,
+        "area_sqft": 3000,
+        "rooms_bhk": 4,
+        "property_type": "Luxury Villa"
+    },
+    {
+        "location": "Worli Sea Face",
+        "amenities": [
+            "Clubhouse",
+            "Swimming pool",
+            "Garden",
+            "Parking"
+        ],
+        "property_name": "Powai Greens",
+        "price_mil": 32000000,
+        "area_sqft": 2500,
+        "rooms_bhk": 3,
+        "property_type": "Luxury Apartment"
+    },
+    {
+        "location": "Colaba",
+        "amenities": [
+            "Sea view",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Malad Sunsets",
+        "price_mil": 29000000,
+        "area_sqft": 2300,
+        "rooms_bhk": 3,
+        "property_type": "Luxury Villa"
+    },
+    {
+        "location": "Chembur",
+        "amenities": [
+            "Security",
+            "Parking"
+        ],
+        "property_name": "Vile Parle Heights",
+        "price_mil": 18000000,
+        "area_sqft": 1500,
+        "rooms_bhk": 2,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Lower Parel",
+        "amenities": [
+            "Private terrace",
+            "Swimming pool",
+            "Parking"
+        ],
+        "property_name": "Lower Parel Serenity",
+        "price_mil": 27000000,
+        "area_sqft": 2100,
+        "rooms_bhk": 3,
+        "property_type": "Luxury Apartment"
+    },
+    {
+        "location": "Khar West",
+        "amenities": [
+            "Clubhouse",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Borivali Heights",
+        "price_mil": 25000000,
+        "area_sqft": 2000,
+        "rooms_bhk": 3,
+        "property_type": "Luxury Apartment"
+    },
+    {
+        "location": "Vile Parle East",
+        "amenities": [
+            "Garden",
+            "Parking"
+        ],
+        "property_name": "Thane Tranquility",
+        "price_mil": 19000000,
+        "area_sqft": 1600,
+        "rooms_bhk": 3,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Versova",
+        "amenities": [
+            "Sea view",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Colaba Paradise",
+        "price_mil": 36000000,
+        "area_sqft": 2800,
+        "rooms_bhk": 4,
+        "property_type": "Luxury Villa"
+    },
+    {
+        "location": "Powai",
+        "amenities": [
+            "Security",
+            "Parking"
+        ],
+        "property_name": "Bhandup Serenity",
+        "price_mil": 20000000,
+        "area_sqft": 1700,
+        "rooms_bhk": 3,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Borivali West",
+        "amenities": [
+            "Clubhouse",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Kandivali Oasis",
+        "price_mil": 21000000,
+        "area_sqft": 1800,
+        "rooms_bhk": 3,
+        "property_type": "Luxury Apartment"
+    },
+    {
+        "location": "Bandra West",
+        "amenities": [
+            "Sea view",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Ghatkopar Heights",
+        "price_mil": 28000000,
+        "area_sqft": 2200,
+        "rooms_bhk": 4,
+        "property_type": "Luxury Villa"
+    },
+    {
+        "location": "Powai",
+        "amenities": [
+            "Security",
+            "Parking"
+        ],
+        "property_name": "Santacruz Serenity",
+        "price_mil": 21000000,
+        "area_sqft": 1600,
+        "rooms_bhk": 3,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Powai",
+        "amenities": [
+            "Clubhouse",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Kurla Haven",
+        "price_mil": 23000000,
+        "area_sqft": 1900,
+        "rooms_bhk": 3,
+        "property_type": "Luxury Apartment"
+    },
+    {
+        "location": "Santa Cruz",
+        "amenities": [
+            "Garden",
+            "Parking"
+        ],
+        "property_name": "Matunga Tranquility",
+        "price_mil": 20000000,
+        "area_sqft": 1500,
+        "rooms_bhk": 2,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Powai",
+        "amenities": [
+            "Sea view",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Wadala Oasis",
+        "price_mil": 26000000,
+        "area_sqft": 2100,
+        "rooms_bhk": 3,
+        "property_type": "Luxury Villa"
+    },
+    {
+        "location": "Santa Cruz",
+        "amenities": [
+            "Security",
+            "Parking"
+        ],
+        "property_name": "Chembur Serenity",
+        "price_mil": 19000000,
+        "area_sqft": 1600,
+        "rooms_bhk": 3,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Thane West",
+        "amenities": [
+            "Clubhouse",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Dahisar Heights",
+        "price_mil": 24000000,
+        "area_sqft": 2000,
+        "rooms_bhk": 3,
+        "property_type": "Luxury Apartment"
+    },
+    {
+        "location": "Kandivali East",
+        "amenities": [
+            "Garden",
+            "Parking"
+        ],
+        "property_name": "Mulund Tranquility",
+        "price_mil": 22000000,
+        "area_sqft": 1800,
+        "rooms_bhk": 3,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Lower Parel",
+        "amenities": [
+            "Sea view",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Vashi Vista",
+        "price_mil": 27000000,
+        "area_sqft": 2200,
+        "rooms_bhk": 4,
+        "property_type": "Luxury Villa"
+    },
+    {
+        "location": "Andheri West",
+        "amenities": [
+            "Security",
+            "Parking"
+        ],
+        "property_name": "Goregaon Serenity",
+        "price_mil": 20000000,
+        "area_sqft": 1700,
+        "rooms_bhk": 3,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Kandivali East",
+        "amenities": [
+            "Clubhouse",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Virar Heights",
+        "price_mil": 19000000,
+        "area_sqft": 1600,
+        "rooms_bhk": 3,
+        "property_type": "Luxury Apartment"
+    },
+    {
+        "location": "Borivali West",
+        "amenities": [
+            "Sea view",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Panvel Paradise",
+        "price_mil": 29000000,
+        "area_sqft": 2400,
+        "rooms_bhk": 4,
+        "property_type": "Luxury Villa"
+    },
+    {
+        "location": "Worli Sea Face",
+        "amenities": [
+            "Security",
+            "Parking"
+        ],
+        "property_name": "Ulwe Serenity",
+        "price_mil": 18000000,
+        "area_sqft": 1500,
+        "rooms_bhk": 2,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Lower Parel",
+        "amenities": [
+            "Clubhouse",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Kalyan Greens",
+        "price_mil": 21000000,
+        "area_sqft": 1800,
+        "rooms_bhk": 3,
+        "property_type": "Luxury Apartment"
+    },
+    {
+        "location": "Dadar West",
+        "amenities": [
+            "Garden",
+            "Parking"
+        ],
+        "property_name": "Dombivli Tranquility",
+        "price_mil": 20000000,
+        "area_sqft": 1600,
+        "rooms_bhk": 3,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Marine Drive",
+        "amenities": [
+            "Sea view",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Badlapur Oasis",
+        "price_mil": 22000000,
+        "area_sqft": 1800,
+        "rooms_bhk": 3,
+        "property_type": "Luxury Villa"
+    },
+    {
+        "location": "Dadar West",
+        "amenities": [
+            "Security",
+            "Parking"
+        ],
+        "property_name": "Ambernath Serenity",
+        "price_mil": 19000000,
+        "area_sqft": 1500,
+        "rooms_bhk": 2,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Khar West",
+        "amenities": [
+            "Clubhouse",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Bhiwandi Heights",
+        "price_mil": 24000000,
+        "area_sqft": 2000,
+        "rooms_bhk": 3,
+        "property_type": "Luxury Apartment"
+    },
+    {
+        "location": "Andheri West",
+        "amenities": [
+            "Garden",
+            "Parking"
+        ],
+        "property_name": "Karjat Tranquility",
+        "price_mil": 23000000,
+        "area_sqft": 1900,
+        "rooms_bhk": 3,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Thane West",
+        "amenities": [
+            "Sea view",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Palava Paradise",
+        "price_mil": 26000000,
+        "area_sqft": 2100,
+        "rooms_bhk": 4,
+        "property_type": "Luxury Villa"
+    },
+    {
+        "location": "Santacruz East",
+        "amenities": [
+            "Security",
+            "Parking"
+        ],
+        "property_name": "Titwala Serenity",
+        "price_mil": 20000000,
+        "area_sqft": 1700,
+        "rooms_bhk": 3,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Dadar West",
+        "amenities": [
+            "Clubhouse",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Mira Road Heights",
+        "price_mil": 25000000,
+        "area_sqft": 2000,
+        "rooms_bhk": 3,
+        "property_type": "Luxury Apartment"
+    },
+    {
+        "location": "Malad West",
+        "amenities": [
+            "Garden",
+            "Parking"
+        ],
+        "property_name": "Bhayander Tranquility",
+        "price_mil": 21000000,
+        "area_sqft": 1600,
+        "rooms_bhk": 3,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Powai",
+        "amenities": [
+            "Sea view",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Virar Vista",
+        "price_mil": 27000000,
+        "area_sqft": 2200,
+        "rooms_bhk": 4,
+        "property_type": "Luxury Villa"
+    },
+    {
+        "location": "Borivali West",
+        "amenities": [
+            "Security",
+            "Parking"
+        ],
+        "property_name": "Neral Serenity",
+        "price_mil": 18000000,
+        "area_sqft": 1500,
+        "rooms_bhk": 2,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Juhu",
+        "amenities": [
+            "Clubhouse",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Asangaon Heights",
+        "price_mil": 19000000,
+        "area_sqft": 1600,
+        "rooms_bhk": 3,
+        "property_type": "Luxury Apartment"
+    },
+    {
+        "location": "Juhu",
+        "amenities": [
+            "Garden",
+            "Parking"
+        ],
+        "property_name": "Shahapur Tranquility",
+        "price_mil": 22000000,
+        "area_sqft": 1800,
+        "rooms_bhk": 3,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Malad West",
+        "amenities": [
+            "Sea view",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Vasai Oasis",
+        "price_mil": 29000000,
+        "area_sqft": 2400,
+        "rooms_bhk": 4,
+        "property_type": "Luxury Villa"
+    },
+    {
+        "location": "Chembur",
+        "amenities": [
+            "Security",
+            "Parking"
+        ],
+        "property_name": "Airoli Serenity",
+        "price_mil": 19000000,
+        "area_sqft": 1600,
+        "rooms_bhk": 3,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Powai",
+        "amenities": [
+            "Clubhouse",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Rabale Heights",
+        "price_mil": 24000000,
+        "area_sqft": 2000,
+        "rooms_bhk": 3,
+        "property_type": "Luxury Apartment"
+    },
+    {
+        "location": "Colaba",
+        "amenities": [
+            "Garden",
+            "Parking"
+        ],
+        "property_name": "Navi Mumbai Tranquility",
+        "price_mil": 23000000,
+        "area_sqft": 1900,
+        "rooms_bhk": 3,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Malad West",
+        "amenities": [
+            "Sea view",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Palghar Paradise",
+        "price_mil": 26000000,
+        "area_sqft": 2100,
+        "rooms_bhk": 4,
+        "property_type": "Luxury Villa"
+    },
+    {
+        "location": "Malad West",
+        "amenities": [
+            "Security",
+            "Parking"
+        ],
+        "property_name": "Boisar Serenity",
+        "price_mil": 20000000,
+        "area_sqft": 1700,
+        "rooms_bhk": 3,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Powai",
+        "amenities": [
+            "Clubhouse",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Mumbra Heights",
+        "price_mil": 25000000,
+        "area_sqft": 2000,
+        "rooms_bhk": 3,
+        "property_type": "Luxury Apartment"
+    },
+    {
+        "location": "Santacruz East",
+        "amenities": [
+            "Garden",
+            "Parking"
+        ],
+        "property_name": "Vikhroli Tranquility",
+        "price_mil": 21000000,
+        "area_sqft": 1600,
+        "rooms_bhk": 3,
+        "property_type": "Apartment"
+    },
+    {
+        "location": "Colaba",
+        "amenities": [
+            "Sea view",
+            "Swimming pool",
+            "Gym",
+            "Parking"
+        ],
+        "property_name": "Bandra Paradise",
+        "price_mil": 27000000,
+        "area_sqft": 2200,
+        "rooms_bhk": 4,
+        "property_type": "Luxury Villa"
+    }
+]

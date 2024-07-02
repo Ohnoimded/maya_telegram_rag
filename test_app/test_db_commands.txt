@@ -1,0 +1,25 @@
+"""
+CALL apoc.load.json("file:test_db.json") YIELD value AS prop
+
+MERGE (l:Location { name: prop.location })
+
+MERGE (pn:PropertyName { name: prop.property_name })
+MERGE (pn)-[:LOCATED_IN]->(l)
+
+MERGE (pt:PropertyType { name: prop.property_type })
+MERGE (pn)-[:HAS_PROPERTY_TYPE]->(pt)
+
+FOREACH (amenity IN prop.amenities |
+  MERGE (a:Amenity { name: amenity })
+  MERGE (pn)-[:HAS_AMENITY]->(a)
+)
+
+MERGE (r:Rooms { count: toInteger(prop.rooms_bhk) })
+MERGE (pn)-[:HAS_BHK]->(r)
+
+MERGE (a:Area { size: toFloat(prop.area_sqft) })
+MERGE (pn)-[:HAS_AREA]->(a)
+
+MERGE (pr:Price { amount: toInteger(prop.price_mil) })
+MERGE (pn)-[:AT_PRICE]->(pr)
+"""
