@@ -32,10 +32,6 @@ To use Maya AI, run the following command:
 python main.py
 ```
 
-## Time taken to build from scratch
-
-3 days
-
 ## License
 
 This project is licensed under the [License](LICENSE).
